@@ -1,0 +1,78 @@
+.body_login{
+    background-color: #ff95cf;
+}
+
+.header{
+    background-color: #ffffff;
+    background-position: center;
+}
+
+.titulo_login{
+    text-align: center;
+    color: #58c7ff;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.main_login{
+    background-position: center;
+}
+
+.section_login{
+    background-position: center;
+    background-color: #58c7ff;
+}
+
+.titulo_dados_pessoais{
+    color: #000000;
+    font-size: large;
+    letter-spacing: 5px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.titulo_username{
+    color: #000000;
+    background-color: #58c7ff;
+    text-align: center;
+    font-size: large;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.input_username{
+    color: #000000;
+    background-color: #ff95cf;
+    text-align: left;
+    font-size: small;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.titulo_senha{
+    color: #000000;
+    background-color: #58c7ff;
+    text-align: center;
+    font-size: large;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.input_senha{
+    color: #000000;
+    background-color: #ff95cf;
+    text-align: left;
+    font-size: small;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.gif_melody{
+    background-image:url(https://i.pinimg.com/originals/c3/00/66/c3006691ab0e85bd1bcd3a10f3797cf6.gif);
+    background-position: center;
+    background-size: cover;
+    padding: 50px;
+    height: 200px;
+}
+
+.footer{
+    color: #b8b8b8;
+    background-color: #ffffff;
+    text-align: center;
+    font-size: smaller;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
